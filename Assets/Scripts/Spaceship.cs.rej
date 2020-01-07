@@ -1,0 +1,9 @@
+diff a/space-program/Assets/Scripts/Spaceship.cs b/space-program/Assets/Scripts/Spaceship.cs	(rejected hunks)
+@@ -23,7 +23,6 @@
+     /// </summary>
+     private float _speedUp = 5.0f;
+ 
+-    private float _fuel = 100.0f;
+ 	/// <summary>
+ 	/// Tilt
+ 	/// </summary>
